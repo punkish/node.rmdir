@@ -2,6 +2,8 @@
 
 Remove all files in the given path recursively.
 
+**Note:** Updated `node.flow`
+
 ## Description
 
 Or just use `require( 'child_process' ).exec` and call `rm -r`
